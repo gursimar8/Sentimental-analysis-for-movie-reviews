@@ -1,4 +1,4 @@
-**Objective:
+**Objective:**
 
 The main objective of this project is to use sentimental analysis in the aviation sector to compare the popularity of three different airlines selected. 
 I have used R software to perform this analysis. 
